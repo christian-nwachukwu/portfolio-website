@@ -11,8 +11,8 @@ const Header = () => {
       
       <button class="w3-button w3-black">Home</button>
       <button class="w3-button w3-white"><i class="fa fa-diamond w3-margin-right"></i>About</button>
-      <button class="w3-button w3-white w3-hide-small"><i class="fa fa-photo w3-margin-right"></i>Projects</button>
-      <button class="w3-button w3-white w3-hide-small"><i class="fa fa-photo w3-margin-right"></i>Skills</button>
+      <button class="w3-button w3-white w3-hide-small"><i class="fa fa-file w3-margin-right"></i>Projects</button>
+      <button class="w3-button w3-white w3-hide-small"><i class="fa fa-cloud w3-margin-right"></i>Skills</button>
       <button class="w3-button w3-white w3-hide-small"><i class="fa fa-map-pin w3-margin-right"></i>Contact</button>
     </div>
 

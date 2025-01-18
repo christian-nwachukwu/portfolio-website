@@ -11,21 +11,24 @@ const Home = () => {
         <img src="https://i.pinimg.com/736x/a3/01/ae/a301aeccec87559b399829abd91b3d6e.jpg" alt="product-design" style={{width:'100%', height:'218px'}} class="w3-hover-opacity" />
         <div class="w3-container w3-white">
           <p><b>UI/UX Design</b></p>
-          <p>Praesent tincidunt sed tellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
+          <p>Revamping clients websites and applications, improving load times, increasing user engagements,
+           implementing resposive design principles and increasing overall user retention.</p>
         </div>
       </div>
     <div class="w3-third w3-container w3-margin-bottom">
       <img src="https://i.pinimg.com/236x/fd/3f/6a/fd3f6a4b248ddde70bd702e86320446b.jpg" alt="frontend-interface" style={{width:'100%', height:'220px'}} class="w3-hover-opacity" />
       <div class="w3-container w3-white">
         <p><b>Frontend Dev</b></p>
-        <p>Praesent tincidunt sed tellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
+        <p>Dynamic Front End Developer with a proven track record in creating an immersive, responsive user experiences, web accessibility and engagements
+        across various sectors.</p>
       </div>
     </div>
     <div class="w3-third w3-container">
       <img src="https://i.pinimg.com/236x/84/97/86/849786e1d7fde85648ded19b81026c0a.jpg" alt="backend-codes" style={{width:'100%', height:'218px'}} class="w3-hover-opacity" />
       <div class="w3-container w3-white">
         <p><b>Backend Dev</b></p>
-        <p>Praesent tincidunt sed tellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
+        <p>Developed and maintained software applications, APIs and contributing to various projects across multiple 
+        industries with proven records of developing high-performance backend systems.</p>
       </div>
     </div>
   </div>
@@ -42,13 +45,12 @@ const Home = () => {
 
   <div class="w3-container w3-padding-large" style={{marginBottom:'32px'}}>
     <h4><b>About Me</b></h4>
-    <p>Just me, myself and I, exploring the universe of unknownment. 
-    I have a heart of love and an interest of lorem 
-    ipsum and mauris neque quam blog. I want to share my world with you. 
-    Praesent tincidunt sed tellus ut rutrum. Sed vitae justo condimentum, 
-    porta lectus vitae, ultricies congue gravida diam non fringilla. 
-    Praesent tincidunt sed tellus ut rutrum. Sed vitae justo condimentum, 
-    porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
+    <p>As a junior software engineer with about 2 years of experience in full stack development, 
+    I specialize in building high-performance web applications using React, Node.js and Django.
+    My projects have consistently resulted in improved performance and user satisfaction.
+    I bring a proactive approach to project leadership and technical innovation. 
+    I aim to apply my strong basics in full stack technologies and various languages to expedite
+    the delivery of responsive and efficient applications for every client.</p>
     <hr />
     
     <h4>Technical Skills</h4>
@@ -57,30 +59,34 @@ const Home = () => {
       <div class="w3-third w3-margin-bottom">
         <ul class="w3-ul w3-border w3-white w3-center w3-opacity w3-hover-opacity-off">
           <li class="w3-black w3-xlarge w3-padding-32">UI/UX</li>
+          <li class="w3-padding-16">Figma</li>
+          <li class="w3-padding-16">Protopie</li>
           <li class="w3-padding-16">Web Design</li>
-          <li class="w3-padding-16">Photography</li>
-          <li class="w3-padding-16">1GB Storage</li>
-          <li class="w3-padding-16">Mail Support</li>
+          <li class="w3-padding-16">Mobile Design</li>
+          <li class="w3-padding-16">Interactive Design</li>
         </ul>
       </div>
       
       <div class="w3-third w3-margin-bottom">
         <ul class="w3-ul w3-border w3-white w3-center w3-opacity w3-hover-opacity-off">
           <li class="w3-teal w3-xlarge w3-padding-32">Frontend</li>
-          <li class="w3-padding-16">Web Design</li>
-          <li class="w3-padding-16">Photography</li>
-          <li class="w3-padding-16">50GB Storage</li>
-          <li class="w3-padding-16">Endless Support</li>
+          <li class="w3-padding-16">React</li>
+          <li class="w3-padding-16">HTML</li>
+          <li class="w3-padding-16">CSS/SASS/Tailwind</li>
+          <li class="w3-padding-16">JavaScript</li>
+          <li class="w3-padding-16">Git/Github</li>
         </ul>
       </div>
       
       <div class="w3-third">
         <ul class="w3-ul w3-border w3-white w3-center w3-opacity w3-hover-opacity-off">
           <li class="w3-black w3-xlarge w3-padding-32">Backend</li>
-          <li class="w3-padding-16">Web Design</li>
-          <li class="w3-padding-16">Photography</li>
-          <li class="w3-padding-16">Unlimited Storage</li>
-          <li class="w3-padding-16">Endless Support</li>
+          <li class="w3-padding-16">Python</li>
+          <li class="w3-padding-16">Node.Js</li>
+          <li class="w3-padding-16">Express</li>
+          <li class="w3-padding-16">Django</li>
+          <li class="w3-padding-16">REST API</li>
+          <li class="w3-padding-16">MongoDB/MySQL/SQLite</li>
         </ul>
       </div>
     </div>
