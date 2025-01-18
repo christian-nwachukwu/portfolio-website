@@ -11,7 +11,7 @@ const Footer = () => {
           </p>
         
       
-      <div class="w3-black w3-center w3-padding-24">Powered by <a href="https://www.w3schools.com/w3css/default.asp" title="W3.CSS" target="_blank" class="w3-hover-opacity">w3.css</a></div>
+      <div class="w3-black w3-center w3-padding-24">Powered by <a href="#" title="Unison Technologies" target="_blank" class="w3-hover-opacity">Unison Technologies</a></div>
       </footer>
   )
 }
