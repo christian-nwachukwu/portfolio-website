@@ -11,7 +11,7 @@ const Footer = () => {
           </p>
         
       
-      <div class="w3-black w3-center w3-padding-24">Powered by <a href="#" title="Unison Technologies" target="_blank" class="w3-hover-opacity">Unison Technologies</a></div>
+      <div class="w3-black w3-center w3-padding-24">Powered by <a href="#" title="Unison Technologies" target="_blank" class="w3-hover-opacity">Unison Technologies </a></div>
       </footer>
   )
 }
